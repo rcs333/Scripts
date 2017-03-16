@@ -1,4 +1,4 @@
-
+# This is that black magic voodoo that turns timestamps into the correct format
 timestamps = open('timestamps.txt')
 
 
