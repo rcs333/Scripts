@@ -1,3 +1,4 @@
+# Super important script referenced in Ryan's kaldi data prep 
 text_lines = []
 seg_lines = []
 u2s_lines = []
