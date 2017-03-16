@@ -1,3 +1,4 @@
+# Basically witchcraft but this will output the 'timestamps.txt' folder or whatever used by the make_2min file
 import subprocess
 import glob
 
