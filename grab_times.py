@@ -1,4 +1,4 @@
-
+# Honestly no idea what this does. 
 def pull_times(filename, linenumber):
     f = open(filename)
     count = 1
