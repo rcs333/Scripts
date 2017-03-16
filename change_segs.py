@@ -1,4 +1,4 @@
-
+# This is some code that I'm honestly not sure what it does - I'm pretty sure it has something to do with creating a list of file names and durations
 import subprocess
 
 for line in open('wav.scp'):
