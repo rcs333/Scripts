@@ -1,3 +1,4 @@
+# This is some code to graph accuracy of binary classifiers 
 import numpy as np
 import matplotlib.pyplot as plt
 
