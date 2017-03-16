@@ -1,4 +1,5 @@
-
+# Okay this file is actually one you'll need. It takes in a cleaned transcript file like produced by our annotators /fileloc/ transcript
+# and it produces the files - this script is referenced in the nuclino documentation so have fun
 d = open('/home/ryan/final_cleaned_3.txt')
 text = open('text', 'w')
 wav = open('wav.scp', 'w')
